@@ -1,3 +1,3 @@
 # shootinggame
 
-For education
+For education na krub
